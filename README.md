@@ -11,6 +11,6 @@ guiando
 
 
 
-y otra imagen PostMan
+y una imagen de como se ve en PostMan
 
 ![Captura de pantalla 2025-02-07 133432](https://github.com/user-attachments/assets/4318a79c-e370-465b-9a4e-b0958f5ab00e)
